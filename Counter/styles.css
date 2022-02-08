@@ -1,0 +1,21 @@
+.container{
+    text-align: center;
+}
+#value{
+    font-size: 6rem;
+    font-weight: bold;
+}
+main{
+    display: grid;
+    place-items:center;
+    min-height: 80vh;
+}
+.btn {
+    text-transform: uppercase;
+    background: transparent;
+    display: inline-block;
+    font-size: 0.875rem;
+    border: 2px solid var(--clr-black);
+    cursor: pointer;
+    margin: 0.5rem;
+  }
