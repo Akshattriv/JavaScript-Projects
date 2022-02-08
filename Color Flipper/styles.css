@@ -1,0 +1,35 @@
+nav {
+    background:white;
+    height: 3rem;
+    display:grid;
+  }
+.nav-center {
+    width: 90vw;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    justify-content:space-between;
+}
+.nav-links {
+   display: flex;
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+}
+nav a {
+  text-transform: capitalize;
+  font-weight: 700;
+  font-size: 1rem;
+  letter-spacing: auto;
+  margin-right: 2rem;
+}
+nav a:hover {
+ color:green;
+}
+.container {
+    text-align: center;
+    text-transform: uppercase; 
+    padding: 220px;
+}
