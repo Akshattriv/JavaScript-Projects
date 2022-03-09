@@ -6,3 +6,4 @@
 1) Side Tray - A side tray which has 3 links when you click on it, it redirects to the website.(Reddit,Youtube,Linkedin)
 2) Toast Notification - Displays a notification upon clicking of a button.
 3) Auto Write Text - Auto Writes text on the screen on repeat(same text)
+4) Pop Up - PopUp opens on clicking a button, A cross closes the Popup.
